@@ -1,5 +1,8 @@
 # School-wally
-De bois hun readme
-wij hebben geen read me nodig
-zo koel zijn wij holy shit
-slayers
+Welkom dit is de repo van
+- Koen
+- Rodney
+- Ties
+- Rick
+- Pim
+
