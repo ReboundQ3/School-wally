@@ -1,7 +1,19 @@
-from tkinter import *
+import tkinter as tk
 
-window = Tk()
-window.title("Koen's Test window")
-window.configure(width=1280, height=980)
-window.configure(bg='red')
+window = tk.Tk()
+label = tk.Label(
+    text="Python rocks!",
+    fg="blue",
+    bg="black",
+)
+label.pack()
+
+button = tk.Button(
+    text="Klik",
+    width=50,
+    height=10,
+    bg="pink",
+    fg="purple",
+)
+button.pack()
 window.mainloop()
