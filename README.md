@@ -1,8 +1,2 @@
-# School-wally
-# devbranch
-Welkom dit is de repo van
-- Koen
-- Rodney
-- Ties
-- Rick
-- Pim
+# School-wally Devbranch
+Dit is de officiele Wally development branch
